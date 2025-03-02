@@ -1,0 +1,8 @@
+[package]
+name = "spill-stream"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+datafusion = "45.0.0"
+futures = "0.3.31"
